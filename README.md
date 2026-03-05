@@ -2,7 +2,7 @@
 
 a minimal example demonstrating C++23 `import std;` feature using clang++ and libc++
 
-tested on:
+tested with:
 - clang 21.1.8
 - libc++ 21.1.8
 
